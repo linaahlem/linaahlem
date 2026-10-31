@@ -1,4 +1,4 @@
-# Hi, I'm Lina Ahlem Boualam 👋
+# Hi, I'm Lina Boualam 👋
 
 ### AI Engineer | Agentic AI | Industrial AI | Neuro-Symbolic Systems
 
