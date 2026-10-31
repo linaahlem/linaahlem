@@ -13,8 +13,7 @@ My interests include:
 - 🏭 **Industrial AI:** Applying AI to complex industrial challenges, intelligent automation, and engineering systems.
 - 🤖 **Agentic AI:** LLM agents, multi-agent systems, tool use and orchestration.
 - 🧠 **Neuro-Symbolic AI:** Knowledge representation, ontologies and automated reasoning.
-- 🔬 **Foundation Models:** LLMs, Small Language Models and model alignment.
-- ⚙️ **Physical AI:** Intelligent robotics, reinforcement learning and cyber-physical systems.
+- 🔬 **Foundation Models:** Language Models (LLMs/VLMs) and model alignment.
 - 👁️ **Multimodal AI:** Computer vision, deepfake detection and graph-based learning.
 
 ### Featured Work
